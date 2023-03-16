@@ -1,0 +1,11 @@
+{
+    "component": "simbot.mirai",
+    "code": 508140584,
+    "passwordInfo": {
+        "type": "text",
+        "text": "hong508."
+    },
+    "config": {
+        "protocol": "MACOS"
+    }
+}
